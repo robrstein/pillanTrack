@@ -103,8 +103,8 @@ Para pruebas internas y cerradas en **Google Play Console**:
 **Roberto Escobar**  
 - Ingeniero en Ejecución en Informática  
 - App Developer & Cloud Engineer (OCI, FastAPI, Flutter)  
-- 
-- 📧 roberto.escobar.wall@gmail.com  
+- 📧 roberto.escobar.wall@gmail.com
+- 🐙 [GitHub](https://github.com/robrstein)
 
 ---
 
