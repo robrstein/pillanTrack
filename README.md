@@ -74,11 +74,12 @@ Este proyecto fue inicializado con [Create React App](https://github.com/faceboo
 ## 📊 Gráfico de funciones
 ![Gráfico de funciones](docs/assets/pillantrack_functions.png)  
 *Consulta portafolios y fondos de inversión con seguridad.*
+<img src="docs/assets/pillantrack_functions.png" alt="Gráfico de funciones" width="600" height="300">
 
 ---
 
 ## 🖼️ Icono de la aplicación
-![Icono PillanTrack](docs/assets/pillantrack_icon.png)  
+![Icono PillanTrack](<img src="docs/assets/pillantrack_icon.png" alt="Icono PillanTrack" width="200" height="200">)  
 *Diseño inspirado en Pillan, entidad mapuche protectora, combinado con símbolos financieros.*
 
 ---
